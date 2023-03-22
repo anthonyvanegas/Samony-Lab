@@ -1,21 +1,21 @@
-#Samony Laboratory Information Management Database
+# Samony Laboratory Information Management Database
 
 The Samony Laboratory Information Management Database project aimed to improve the management of patient data, testing progress, and test results, replacing a cumbersome spreadsheet system. The project underwent several changes from its initial version to its final implementation, driven by feedback received throughout the development process.
 
-#Project Group
+## Project Group
 
-Samuel Baird
-Anthony Vanegas
+- Samuel Baird
+- Anthony Vanegas
 
-#Project Title
+## Project Title
 
 Samony Laboratory Information Management Database
 
-#Site URL
+## Site URL
 
 http://flip.engr.oregonstate.edu:33127/
 
-#Executive Summary
+## Executive Summary
 
 The Samony Laboratory Information Management Database project aimed to improve the management of patient data, testing progress, and test results, replacing a cumbersome spreadsheet system. The project underwent several changes from its initial version to its final implementation, driven by feedback received throughout the development process.
 
@@ -27,7 +27,7 @@ Major changes and updates include:
 - Enhancing Sample ID Dropdown
 - Date Formatting
 
-#Project Outline
+## Project Outline
 
 Samony Laboratory tests 20,000 samples for infectious diseases per year. Currently, a spreadsheet with hundreds of thousands of rows is used to track testing progress and test results. While the laboratory has gotten by with this system for many years, the volume of testing has tripled since the COVID-19 pandemic, and the spreadsheet has become slow and complicated to use. Additionally, a serious incident occurred where a set of test results were copy-and-pasted one cell off, causing test results to be reported incorrectly to dozens of patients. For these reasons, laboratory administrators want to develop a more robust system for managing this important patient data.
 
